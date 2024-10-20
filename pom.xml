@@ -21,7 +21,6 @@
         <version>3.0.5</version>
     </parent>
 
-    <!-- 注意：直接替换pom文件中原有的properties -->
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
